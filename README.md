@@ -7,3 +7,5 @@
 4. Scroll down to the youtube widget. This will trigger the crash.
 
 Reproducible on iOS (26.0 RC1) and macOS (Safari Technology Preview Release 227 (WebKit 20623.1.5))
+
+Fixed in https://bugs.webkit.org/show_bug.cgi?id=298697
